@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">App</string>
+    <string name="buttonText">Click me</string>
+    <string name="toastText">Hello EPAM!</string>
 </resources>
